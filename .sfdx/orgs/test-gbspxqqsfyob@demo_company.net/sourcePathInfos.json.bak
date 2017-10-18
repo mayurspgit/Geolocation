@@ -50,10 +50,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1508326099328,
-            "changeTime": 1508326099328,
+            "modifiedTime": 1508325870348,
+            "changeTime": 1508325870348,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -268,14 +268,14 @@
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 206,
             "modifiedTime": 1508325755477,
             "changeTime": 1508325755477,
-            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
         }
     ],
     [
@@ -632,40 +632,40 @@
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508325870393,
             "changeTime": 1508325870393,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508325819381,
             "changeTime": 1508325819381,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508325629188,
             "changeTime": 1508325629188,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
         }
     ],
     [
@@ -675,36 +675,36 @@
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 539,
-            "modifiedTime": 1508326217199,
-            "changeTime": 1508326217199,
-            "contentHash": "9bcc6661c02ff47915f9a109d79fceaa7b913868"
+            "size": 342,
+            "modifiedTime": 1508325882784,
+            "changeTime": 1508325882784,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1508325870366,
             "changeTime": 1508325870366,
-            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1508325911719,
             "changeTime": 1508325911719,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
         }
     ],
     [
@@ -714,114 +714,114 @@
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1508326240659,
-            "changeTime": 1508326240659,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "size": 255,
+            "modifiedTime": 1508325899574,
+            "changeTime": 1508325899574,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1508325870384,
             "changeTime": 1508325870384,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1508325870399,
             "changeTime": 1508325870399,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 120,
             "modifiedTime": 1508325827921,
             "changeTime": 1508325827921,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1508325819335,
             "changeTime": 1508325819335,
-            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1508325843765,
             "changeTime": 1508325843765,
-            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1508325819349,
             "changeTime": 1508325819349,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1508325819365,
             "changeTime": 1508325819365,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1508325819393,
             "changeTime": 1508325819393,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ],
     [
@@ -831,36 +831,36 @@
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 328,
-            "modifiedTime": 1508326786631,
-            "changeTime": 1508326786631,
-            "contentHash": "d41ec58fbe12a2bbbf7ccfcd6e2be0bc4bdec9d8"
+            "size": 260,
+            "modifiedTime": 1508325652625,
+            "changeTime": 1508325652625,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1508325629161,
             "changeTime": 1508325629161,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
-            "size": 42,
-            "modifiedTime": 1508326321068,
-            "changeTime": 1508325693668,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 42,
+            "modifiedTime": 1508325693668,
+            "changeTime": 1508325693668,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
         }
     ],
     [
@@ -870,75 +870,36 @@
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 833,
-            "modifiedTime": 1508326434189,
-            "changeTime": 1508326434189,
-            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
+            "size": 379,
+            "modifiedTime": 1508325672775,
+            "changeTime": 1508325672775,
+            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1508325629179,
             "changeTime": 1508325629179,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1508325629196,
             "changeTime": 1508325629196,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1508326099338,
-            "changeTime": 1508326099338,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1508326118256,
-            "changeTime": 1508326118256,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\maypatil\\Desktop\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1508326099344,
-            "changeTime": 1508326099344,
-            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
